@@ -1,4 +1,4 @@
-E-Commerce Data Analysis Using Excel
+# E-Commerce Data Analysis Analysis Visualization with Excel
 
 This project analyzes an E-Commerce Store Dataset using Microsoft Excel. The objective is to clean, organize, analyze, and visualize business data to generate meaningful insights for decision-making.
 
