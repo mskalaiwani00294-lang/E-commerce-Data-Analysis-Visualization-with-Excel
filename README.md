@@ -1,105 +1,105 @@
-# E-Commerce Data Analysis Analysis Visualization with Excel
+# 🛒 E-commerce Data Analysis & Visualization with Excel
 
-This project analyzes an E-Commerce Store Dataset using Microsoft Excel. The objective is to clean, organize, analyze, and visualize business data to generate meaningful insights for decision-making.
+## 📌 Project Overview
+This project focuses on analyzing an E-commerce Store Dataset using Microsoft Excel. The dataset was cleaned, transformed, analyzed, and visualized to identify meaningful business insights related to customer behavior, product performance, sales trends, and store performance.
 
-## Description
+## 🎯 Project Objectives
+- Analyze e-commerce sales performance.
+- Understand customer demographics and behavior.
+- Identify product category performance.
+- Compare sales across different regions and stores.
+- Create interactive reports and dashboards.
+- Support business decision-making through data analysis.
 
-The project involves data entry, data cleaning, transformation, statistical analysis, Pivot Tables, data visualization, and reporting using Microsoft Excel. The dataset contains customer, product, store, and sales information. Excel formulas, descriptive statistics, charts, and dashboards are used to identify sales trends, customer behavior, product performance, and store performance. The final output provides actionable insights and recommendations to support business growth and operational efficiency.
+## 🛠️ Tools & Technologies
+- Microsoft Excel
+- Power Query Editor
+- Pivot Tables
+- Excel Formulas & Functions
+- Charts and Sparklines
+- Excel Dashboard
 
-## Getting Started
+## 📂 Dataset Description
+The project dataset contains the following tables:
 
-### Dependencies
+- **Customer_Dim** – Customer details and demographics.
+- **Product_Dim** – Product information and categories.
+- **Store_Dim** – Store and transaction-related information.
+- **Sales_Fact** – Sales transactions and revenue details.
 
-Microsoft Excel 2016 or later
-Windows 10/11 or macOS
-Excel Analysis ToolPak enabled
-Basic knowledge of Excel formulas and Pivot Tables
+## 🔄 Project Workflow
 
+### 1. Data Entry & Organization
+- Organized the dataset into structured tables.
+- Applied table formatting.
+- Checked data alignment and consistency.
 
-### Installing
+### 2. Data Cleaning & Transformation
+- Identified duplicate records.
+- Handled missing and blank values.
+- Corrected inconsistent text formats.
+- Replaced incorrect values.
+- Used Power Query Editor for data transformation.
 
-Download the E-Commerce Store Dataset.
-Open the dataset in Microsoft Excel.
-Enable Analysis ToolPak:
-File → Options → Add-ins
-Manage Excel Add-ins → Go
-Check "Analysis ToolPak"
-Click OK
+### 3. Excel Formulas & Functions
+Used Excel functions such as:
+- `SUM()`
+- `AVERAGE()`
+- `IF()`
+- `COUNTIF()`
+- `TEXT()`
+- `VLOOKUP()`
+- `XLOOKUP()`
 
+### 4. Descriptive Statistics
+- Mean
+- Standard Deviation
+- Mode
+- Analysis ToolPak
 
-### Executing program
+### 5. Data Summarization
+Created Pivot Tables to analyze:
+- Store-wise total sales by loyalty level.
+- Total sales by region.
+- Total sales by product category.
+- Date-wise average unit price by discount.
+- Total revenue analysis.
 
-Open the dataset workbook.
-Review Customer_Dim, Product_Dim, Store_Dim, and Sales_Fact sheets.
-Clean the data:
-Remove duplicates
-Handle missing values
-Correct formatting issues
-Apply Excel formulas:
-SUM
-AVERAGE
-COUNTIF
-IF
-XLOOKUP/VLOOKUP
-Perform Descriptive Statistics using Analysis ToolPak.
-Create Pivot Tables for data summarization.
-Generate charts:
-Bar Chart
-Column Chart
-Pie Chart
-Sparklines
-Build a Dashboard to present key metrics and visualizations.
-Interpret findings and prepare the final report.
+### 6. Data Visualization
+Created:
+- Bar Charts
+- Column Charts
+- Pie Charts
+- Sparklines
+- Sales Dashboard
 
-```
+## 📊 Key Performance Indicators (KPIs)
+- Total Sales
+- Total Revenue
+- Average Unit Price
+- Product Category Performance
+- Region-wise Sales
+- Store-wise Sales
 
-## Help
+## 💡 Key Insights
+- Compared sales performance across different regions.
+- Analyzed revenue trends across multiple years.
+- Evaluated product category performance.
+- Examined customer and store sales patterns.
+- Presented business information through charts and a dashboard.
 
-Common Issues:
-Missing values in the dataset:
-Use filters to identify blanks and fill or remove them.
-Duplicate records:
-Data → Remove Duplicates
-Analysis ToolPak not visible:
-Enable it from Excel Add-ins.
-Pivot Table not updating:
-Right-click Pivot Table → Refresh
+## 📈 Dashboard
+The Excel dashboard combines sales analysis, revenue comparisons, regional performance, and visual summaries to provide an overview of e-commerce business performance.
 
-```
+## ✅ Conclusion
+This project demonstrates how Microsoft Excel can be used for data cleaning, transformation, statistical analysis, data summarization, and visualization. The resulting insights can help businesses improve inventory management, marketing strategies, customer retention, and decision-making.
 
-## Authors
+## 👩‍💻 Author
+**Kalai Vani**
 
-M.Kalai Vani
-Data Analytics Project using Microsoft Excel
+## 📬 Contact
+- GitHub: [Your GitHub Profile](https://github.com/your-username)
 
-## Version History
-
-*1.0
-Initial Release
-Data Cleaning and Transformation
-Excel Formula Applications
-Descriptive Statistics
-Pivot Tables
-Data Visualization
-Dashboard Reporting
-
-
-## License
-
-This project is licensed under the [M.Kalaivani] License - see the LICENSE.md file for details
-
-## Acknowledgments
-Microsoft Excel Documentation
-Excel Analysis ToolPak
-Data Analytics Learning Resources
-Pivot Table and Dashboard Tutorials
-You can paste this directly into your README.md file or submit it as the project documentation.
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)#
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
-
+## ⭐ Acknowledgment
+This project was completed as a practical exercise in Excel-based data analysis and business intelligence.
 
